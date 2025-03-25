@@ -3,3 +3,12 @@
 
 # VR Integrations
 VR Integrations is app which allows you to discover integrations for vr games such as vrchat, resonite and much more in one place!
+
+
+# Supported games
+- VRChat
+
+
+# Integrations
+- Twitch Integration made by <b>Killers0992</b> -
+``Allows viewers to interact with your avatar by using rewards on your channel or when theres new follower you can make particles float around ingame when theres new follower!``
