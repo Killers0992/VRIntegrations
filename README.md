@@ -4,10 +4,15 @@
 # VR Integrations
 VR Integrations is app which allows you to discover integrations for vr games such as vrchat, resonite and much more in one place!
 
+# Installation
+1. Go to [Releases](https://github.com/Killers0992/VRIntegrations/releases) tab on left.
+2. Find latest version and download file depending on your operating system:
+- WINDOWS - ``VRIntegrations_win-64.zip``
+4. Extract all files from zip somewhere on your pc.
+5. Run ``VR Integrations.exe``
 
 # Supported games
 - VRChat
-
 
 # Integrations
 - Twitch Integration made by <b>Killers0992</b> -
