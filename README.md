@@ -16,4 +16,4 @@ VR Integrations is app which allows you to discover integrations for vr games su
 
 # Integrations
 - Twitch Integration made by <b>Killers0992</b> -
-``Allows viewers to interact with your avatar by using rewards on your channel or when theres new follower you can make particles float around ingame when theres new follower!``
+``Allows viewers to interact with your avatar by using rewards on your channel or when theres new follower you can make particles float around ingame using particle system on your avatar linked to some expression parameter!``
