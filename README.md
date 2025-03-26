@@ -14,7 +14,7 @@ VR Integrations is app which allows you to discover integrations for vr games su
 5. Run ``VR Integrations.exe``
 
 # Supported games
-- VRChat
+- [VRChat](https://store.steampowered.com/app/438100/VRChat)
 
 # Integrations
 - Twitch Integration made by <b>Killers0992</b> -
