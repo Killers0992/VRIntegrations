@@ -17,7 +17,7 @@ VR Integrations is app which allows you to discover integrations for vr games su
 - [VRChat](https://store.steampowered.com/app/438100/VRChat)
 
 # Integrations
-- Twitch Integration made by <b>Killers0992</b> -
+- Twitch Integration -
 ``Allows viewers to interact with your avatar by using rewards on your channel or when theres new follower you can make particles float around ingame using particle system on your avatar linked to some expression parameter!``
 ![image](https://github.com/user-attachments/assets/236b154a-f2ef-477c-b49b-6c2c69c149fe)
 ![image](https://github.com/user-attachments/assets/d7f5b3a8-b471-4373-b1bd-17a5a43279bc)
