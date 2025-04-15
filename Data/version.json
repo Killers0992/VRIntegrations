@@ -1,4 +1,6 @@
 {
-  "Version": "0.2.1",
-  "Changelogs": []
+  "Version": "0.2.2",
+  "Changelogs": [
+    "Added support for JP characters in UI."
+  ]
 }
