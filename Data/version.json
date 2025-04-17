@@ -1,6 +1,7 @@
 {
-  "Version": "0.2.2",
+  "Version": "0.2.3",
   "Changelogs": [
-    "Added support for JP characters in UI."
+    "Added Discord Rich Presence during using app",
+    "Fixed Reward Window not showing correctly selected reward upon viewing window ( Twitch Integration )"
   ]
 }
