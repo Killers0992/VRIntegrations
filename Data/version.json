@@ -1,7 +1,6 @@
 {
-  "Version": "0.2.3",
+  "Version": "0.2.4",
   "Changelogs": [
-    "Added Discord Rich Presence during using app",
-    "Fixed Reward Window not showing correctly selected reward upon viewing window ( Twitch Integration )"
+    "Preparing to publish this software on STEAM, check google form on github releases"
   ]
 }
