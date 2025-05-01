@@ -1,6 +1,6 @@
 {
-  "Version": "0.2.4",
+  "Version": "0.2.5",
   "Changelogs": [
-    "Preparing to publish this software on STEAM, check google form on github releases"
+    "Added string support as parameter type."
   ]
 }
