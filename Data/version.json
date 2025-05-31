@@ -1,6 +1,7 @@
 {
-  "Version": "0.2.5",
+  "Version": "0.2.6",
   "Changelogs": [
-    "Added string support as parameter type."
+    "Disabled discord presence until settings tab is done.",
+    "Twitch auth should be refreshed properly when auth expires without need to relogin on twitch site."
   ]
 }
