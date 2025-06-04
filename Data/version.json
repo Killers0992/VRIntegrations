@@ -1,7 +1,6 @@
 {
-  "Version": "0.2.6",
+  "Version": "0.2.7",
   "Changelogs": [
-    "Disabled discord presence until settings tab is done.",
-    "Twitch auth should be refreshed properly when auth expires without need to relogin on twitch site."
+    "Twitch auth should be fixed."
   ]
 }
